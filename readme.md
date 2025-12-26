@@ -1,6 +1,6 @@
 # xDNS
 
-Lightweight DNS proxy with ad-blocking and caching.
+Lightweight DNS server with ad-blocking and caching.
 
 ## Installation
 
@@ -25,7 +25,7 @@ Default upstream is `1.1.1.1:53` (Cloudflare).
 
 ## Blacklist
 
-Edit `blacklists.ini` to add custom domains:
+Edit `blacklist.ini` to add custom domains:
 
 ```
 example.com
