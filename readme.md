@@ -20,7 +20,7 @@ Default upstream is `1.1.1.1:53` (Cloudflare).
 
 - Blocks ads and tracking domains
 - Caches DNS responses
-- Auto-downloads blocklists on first run
+- Auto-downloads blocklists on first run ([StevenBlack's hosts list](https://github.com/StevenBlack/hosts),[anudeepND's blacklist](https://github.com/anudeepND/blacklist))
 - Custom upstream DNS server
 
 ## Blacklist
